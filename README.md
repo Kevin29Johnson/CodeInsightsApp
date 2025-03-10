@@ -32,8 +32,9 @@ pip install -r requirements.txt
 
 Run the application with the following command:
 
-```streamlit run app.py
-
+```bash
+streamlit run app.py
 ```
+## 📷 Application Screenshot
 
 ![alt text](image.png)
